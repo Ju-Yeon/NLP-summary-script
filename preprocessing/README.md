@@ -1,4 +1,4 @@
-# NLP-summary-script/preprocessing
+# NLP-summary-script: preprocessing
 
 Get each movie script with tagging.
 There are all different types of script format. 
